@@ -1,0 +1,4 @@
+101,MS Dhoni,Drama,Hindi,27/10/2017,2,Sushant,Kaira,4.5,150
+102,DHOOM,Action,Hindi,14/07/2019,3,Hritik,Abhishek,John,4.0,300
+103,KARWAAN,Suspense, English,27/09/2019,3,Irfan,John,Mithila,4.7,200
+104,Ubuntu,Drama,Marathi,26/08/2019,1,Sarang,4.0,120
